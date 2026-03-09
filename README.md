@@ -1,1 +1,1 @@
-# Python is Easy
+# Python
